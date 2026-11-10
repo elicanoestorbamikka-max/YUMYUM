@@ -1,0 +1,6 @@
+{
+  "name": "TAILORTRACK: Clothing Alteration Management System",
+  "description": "Simulation-based promise-date quoting and skill-matched job assignment management system for clothing alteration shops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
